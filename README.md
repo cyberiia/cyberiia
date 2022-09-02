@@ -2,13 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Isabelle Carvalho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberiia&color=yellow" alt="Profile views" /> </p>
 
-• 🛡️ Cybersecurity Student at FIAP & Future Ethical Hacker
+• 🛡️ Cybersecurity student at FIAP & future ethical hacker
 
-• 🐧 GNU/Linux Lover, I record small tutorials at [youtube.com](https://www.youtube.com/channel/UCx1cLTZQ7ebbGQVD83J-d1w)
+• 🐧 GNU/Linux lover, I record small tutorials at [youtube.com](https://www.youtube.com/channel/UCx1cLTZQ7ebbGQVD83J-d1w)
 
 • 👩‍💻 Starting to program gradually in Python & ShellScript
 
-• 💽 Passion for Computer Architecture since childhood
+• 💽 Passion for computer architecture since childhood
 
 • 👾 I love technology, innovation and creativity
 

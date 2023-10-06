@@ -13,8 +13,10 @@
 • 👾 I love technology, innovation and creativity
 
 <div style="display: inline_block">
-<img align="center" alt="Logo-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img align="center" alt="Logo-Bash" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 <img align="center" alt="Logo-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Logo-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Logo-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
   
 <br><br>

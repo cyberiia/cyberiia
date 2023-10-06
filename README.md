@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/isabellecrg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-black" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/itzhelloween/" target="_blank">
+<a href="https://www.instagram.com/uplinkcode/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-black" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCx1cLTZQ7ebbGQVD83J-d1w" target="_blank">
